@@ -1,3 +1,4 @@
+layout_spectrum: 0.19297687895596027
 typography_spectrum: 0.3231885130517185
 color:
   brandStrength: 0.00926288217306137
@@ -5,12 +6,9 @@ color:
   saturation: 0.0182684448082
   rhythmicContrast: 0.3370136101730168
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#A8CE3B'
-    - '#2BACDA'
-    - '#797979'
-layout_spectrum: 0.19297687895596027
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Main Street Fun & Games
-title: Toys and Games
-description: Creating Community and Having Fun!
